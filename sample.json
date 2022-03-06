@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "c8UU-xmdt4C927QECxSiaxa2cQg",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D0WjqXpzXJjr_oCa9AjPIBQjxHw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zOjov-2OZ0E"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-21T13:45:02Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Introduction to Programming and Computer Science - Full Course",
+          "description": "In this course, you will learn basics of computer programming and computer science. The concepts you learn apply to any and all ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-21T13:45:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FyeP_JbNi_1k1nYWsi3nrujhIrk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EByDFE6zFPU"
+        },
+        "snippet": {
+          "publishedAt": "2020-09-28T11:30:11Z",
+          "channelId": "UCN3-BVMnr44LIUheSuppw1A",
+          "title": "How to learn Programming Language With Full Information? – [Hindi] – Quick Support",
+          "description": "HowtolearnProgrammingLanguage #QuickSupport How to learn Programming Language With Full Information? – [Hindi] – Quick ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EByDFE6zFPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EByDFE6zFPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EByDFE6zFPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Quick Support",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-09-28T11:30:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GOVUJBIC4ke-dGK02vGoSKkja38",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UXVoAfcN4E4"
+        },
+        "snippet": {
+          "publishedAt": "2019-03-30T13:57:49Z",
+          "channelId": "UC3Q1y6PHeoKBvZuaoJ4PrWw",
+          "title": "What is Programming?, Where it is used?? | प्रोग्रामिंग क्या है ?, इसका उपयोग कहाँ किया जाता है ??",
+          "description": "A programming language is a formal language, which comprises a set of instructions that produce various kinds of output.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UXVoAfcN4E4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UXVoAfcN4E4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UXVoAfcN4E4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Niket Shah Plus",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-03-30T13:57:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yPnx-rxkIPf0nAxjQQksFrLkwTM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VSEnzzjAm0c"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-06T05:03:19Z",
+          "channelId": "UCV7cZwHMX_0vk8DSYrS7GCg",
+          "title": "C Programming Full Course for Beginners (Hindi) | Learn Coding",
+          "description": "इस एक video में मैने C Programming को Basic से Advance तक बताया है, जिसमें हमने C Language के सारे ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VSEnzzjAm0c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VSEnzzjAm0c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VSEnzzjAm0c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Learn Coding",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-06T05:03:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mKjnc5RQW6U40R75GzsjnExWJ3g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "U8_8fTODn5g"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-27T12:24:26Z",
+          "channelId": "UC1tVU8H153ZFO9eRsxdJlhA",
+          "title": "Learn C language in 30 Minutes &amp; Start Coding For Beginners in Hindi",
+          "description": "how to start coding and learn coding and become a computer programmer easy step by step guide and tutorials for beginners to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U8_8fTODn5g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U8_8fTODn5g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U8_8fTODn5g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Technology Gyan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-27T12:24:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aRejoah6Ndm0IdguFBvNwJBXg4A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CIRGjwYgdT4"
+        },
+        "snippet": {
+          "publishedAt": "2021-02-25T08:56:12Z",
+          "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+          "title": "Programming vs Coding - What&#39;s the difference?",
+          "description": "Programming vs coding -- my take on the difference. \u200d   Join Freemote, the Freelance Developer Bootcamp ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aaron Jack",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-02-25T08:56:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ob35xoQTcM-WyK4R_UEypaHs_wE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HIj8wU_rGIU"
+        },
+        "snippet": {
+          "publishedAt": "2020-02-25T15:43:31Z",
+          "channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+          "title": "How to Start Coding | Programming for Beginners | Learn Coding | Intellipaat",
+          "description": "Intellipaat Python course: https://intellipaat.com/python-for-data-science-training/ Intellipaat Programming courses: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HIj8wU_rGIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HIj8wU_rGIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HIj8wU_rGIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Intellipaat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-02-25T15:43:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rDHhhCbA81MjFZcvyDPpoSUtGSM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_uQrJ0TkZlc"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-18T15:00:08Z",
+          "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+          "title": "Python Tutorial - Python for Beginners [Full Course]",
+          "description": "Python tutorial - Python for beginners - Go from Zero to Hero with Python (includes machine learning & web development project).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Programming with Mosh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-18T15:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XEkmGzA2xwjSdr8UpqVIpIrA2LU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eKqY-oP1d_Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-25T17:54:00Z",
+          "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+          "title": "How to Start Coding? Learn Programming for Beginners",
+          "description": "Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eKqY-oP1d_Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eKqY-oP1d_Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eKqY-oP1d_Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apna College",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-25T17:54:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bP7VK08Rtvbq5C7yHv3hLYs6V5Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6tZz6gr1h9E"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-26T10:37:46Z",
+          "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+          "title": "What is the difference between programming and coding",
+          "description": "A question like what is the difference between programming and coding can be tricky to answer, as these are one or the same.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6tZz6gr1h9E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6tZz6gr1h9E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6tZz6gr1h9E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hitesh Choudhary",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-26T10:37:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zxHRPTfhnlgkyYaXQYWVCNVQEu8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sW9npZVpiMI"
+        },
+        "snippet": {
+          "publishedAt": "2021-01-06T01:05:51Z",
+          "channelId": "UCV0qA-eDDICsRR9rPcnG7tw",
+          "title": "why you NEED math for programming",
+          "description": "Get the JomaClass membership: https://joma.tech/38wHNoq First 100 people get 15% off the yearly subscription with promo code ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sW9npZVpiMI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sW9npZVpiMI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sW9npZVpiMI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Joma Tech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-01-06T01:05:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8Qw-u8NrJLp0y7sp2ca3tLLXmAM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YZYKrG6PzjI"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-12T01:53:26Z",
+          "channelId": "UCV7cZwHMX_0vk8DSYrS7GCg",
+          "title": "Difference between Coding and Programming | Learn Coding",
+          "description": "C Programming Full Course का video Link है ये वाला, इसे भी एक बार जरूर देखे | https://youtu.be/VSEnzzjAm0c ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YZYKrG6PzjI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YZYKrG6PzjI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YZYKrG6PzjI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Learn Coding",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-12T01:53:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w740z4h3UqQ3_0Jf6GwkQOpO33w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Dv7gLpW91DM"
+        },
+        "snippet": {
+          "publishedAt": "2014-01-01T12:14:38Z",
+          "channelId": "UCpzRThdQ1qbWVvBQXXZ2rCA",
+          "title": "Why Programming Is Important?",
+          "description": "This is a code.org video that explains everything we should know and do. PS: I do not own this video. I shared it just to spread the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Dv7gLpW91DM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Dv7gLpW91DM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Dv7gLpW91DM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bugra Kilic",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-01-01T12:14:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "begMkKvub7mV-LJbFig40psKDo0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bJzb-RuUcMU"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-04T01:12:12Z",
+          "channelId": "UCfuSelBtnyCACv0KjG2P1-A",
+          "title": "How To Learn Programming for BEGINNERS! (2019/2020)",
+          "description": "This simple tutorial will teach you how you can learn computer programming and teach yourself code. Learning code is not that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CroatCode",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-04T01:12:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "I-IP3ostnFgo1uuP0lEShH-KNKQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "v5pUL2li_zQ"
+        },
+        "snippet": {
+          "publishedAt": "2021-04-03T11:44:08Z",
+          "channelId": "UCL4rURMlfFoxMHsaSrT6d2w",
+          "title": "Coding - Expectation vs Reality | Programming - Expectation vs Reality | Codeiyapa #Shorts",
+          "description": "This is a funny video made to show difference between expectation and reality related to coding or programming.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v5pUL2li_zQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v5pUL2li_zQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v5pUL2li_zQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Codeiyapa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-04-03T11:44:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DJFmETE-iTtukAgCLy0OZVrlXUI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vKsaO5IetS0"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-19T19:54:50Z",
+          "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+          "title": "How to learn programming faster!",
+          "description": "Get Surfshark VPN at https://surfshark.deals/tinahuang - Enter promo code TINAHUANGfor 83% off and 3 extra months for FREE!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vKsaO5IetS0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vKsaO5IetS0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vKsaO5IetS0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tina Huang",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-19T19:54:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LtqU9bL5CAGnR1DsGk5RVQ5yRII",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j-BVv0XW1H8"
+        },
+        "snippet": {
+          "publishedAt": "2020-12-27T00:00:48Z",
+          "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+          "title": "How to learn programming | Charles Isbell and Michael Littman and Lex Fridman",
+          "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=yzMVEbs8Zz0 Please support this podcast by checking out ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j-BVv0XW1H8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j-BVv0XW1H8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j-BVv0XW1H8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Lex Clips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-12-27T00:00:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HPIPfJafnzIVzVqnsNO3SiDyepM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GzvKRGBcun8"
+        },
+        "snippet": {
+          "publishedAt": "2021-07-28T15:00:06Z",
+          "channelId": "UCsLo154Krjwhoz8W00N8ItA",
+          "title": "5 Things EVERY Programmer Needs #Shorts",
+          "description": "Instagram: https://www.instagram.com/keep_on_coding Discord: https://discord.gg/ypFyyWq Become a Member: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GzvKRGBcun8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GzvKRGBcun8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GzvKRGBcun8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Keep On Coding",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-07-28T15:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wlBjFVGI6SGrhAzF1FT3T1M7OtY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YBLF6ZqhO5I"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-15T15:15:00Z",
+          "channelId": "UCM-yUTYGmrNvKOCcAl21g3w",
+          "title": "What is difference between coding and programming",
+          "description": "This is a tricky question to answer because programming and coding are used interchangeably a lot. So in this video, I have ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YBLF6ZqhO5I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YBLF6ZqhO5I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YBLF6ZqhO5I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jenny's lectures CS/IT NET&JRF",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-15T15:15:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fR_iwqfbo5lgumx1luzhajK7Y80",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oBt53YbR9Kk"
+        },
+        "snippet": {
+          "publishedAt": "2020-12-03T14:50:22Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Dynamic Programming - Learn to Solve Algorithmic Problems &amp; Coding Challenges",
+          "description": "Learn how to use Dynamic Programming in this course for beginners. It can help you solve complex programming problems, such ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oBt53YbR9Kk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oBt53YbR9Kk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oBt53YbR9Kk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-12-03T14:50:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jKYU3Ve1e53A4S4v2sgyDLW_d1U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-NXIMxRQ5fc"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-18T13:50:05Z",
+          "channelId": "UCVjjp9fp174yKdPeLB9CInQ",
+          "title": "Sinhala Programming Basics lesson 01",
+          "description": "Chanux Academy Programming Basics මුල සිට සරලව 01 පාඩම. හැම අදහසක්ම ගැටලුවක්ම පහලින් කමෙන්ට් ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-NXIMxRQ5fc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-NXIMxRQ5fc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-NXIMxRQ5fc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chanux Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-18T13:50:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "C_hjzAsNAt4Culrab7OoTEamQvs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8PopR3x-VMY"
+        },
+        "snippet": {
+          "publishedAt": "2019-10-15T05:19:26Z",
+          "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+          "title": "C Programming For Beginners | Learn C Programming | C Tutorial For Beginners | Edureka",
+          "description": "Edureka C Programming Course (Use Code \"YOUTUBE20\"): https://www.edureka.co/c-programming-course Edureka ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8PopR3x-VMY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8PopR3x-VMY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8PopR3x-VMY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "edureka!",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-10-15T05:19:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n3LTRDa2fFu3uIsfMU7AZBpxAsA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pDmEYRhyusU"
+        },
+        "snippet": {
+          "publishedAt": "2019-11-20T15:58:02Z",
+          "channelId": "UCoGHeFY7jE2OB_TJS_87MOA",
+          "title": "Part 1 | Introduction To Programming | C Programming Malayalam Tutorial | Crossroads",
+          "description": "Want to connect with Nikhil Kilivayil personally? check: https://getmytym.com/nikhilkilivayil To know more about Brocamp (SPS) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pDmEYRhyusU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pDmEYRhyusU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pDmEYRhyusU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brototype Malayalam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-11-20T15:58:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UII-13kgYwUfpeUp00T4juj9TTo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "poJfwre2PIs"
+        },
+        "snippet": {
+          "publishedAt": "2018-01-18T01:16:19Z",
+          "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+          "title": "What Programming Language Should I Learn First?",
+          "description": "What programming language to learn first? Watch this video to find out. My Python tutorials: https://goo.gl/4dQMsJ Keep in touch ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/poJfwre2PIs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/poJfwre2PIs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/poJfwre2PIs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CS Dojo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-01-18T01:16:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_hxHLlWdo-HwHLOcdwpLjwvHxl4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hGIW2fDb0jg"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-29T12:51:03Z",
+          "channelId": "UCMXHtrkazQjeCOteE4sof8g",
+          "title": "Programming ▫️ Designing ▫️ Hacking ▫️ Coding ▫️ Focus ▫️ Music 🧬",
+          "description": "Focus & Concentration (Without Vocals) SHORT DESCRIPTION So here we are, one bigger mx. :) As I said in this mix are only ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hGIW2fDb0jg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hGIW2fDb0jg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hGIW2fDb0jg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fil Far",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-29T12:51:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jzLTb23gq4YAktFjH2jTwt60Fcc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QjMJsQx_O7o"
+        },
+        "snippet": {
+          "publishedAt": "2021-03-12T11:00:24Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "What A Day In A Programmers Life Is Actually Like",
+          "description": "What A Day In A Programmers Life Is Actually Like Get access to my programming courses: https://patreon.com/hallden Follow me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QjMJsQx_O7o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QjMJsQx_O7o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QjMJsQx_O7o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kalle Hallden",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-03-12T11:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Dys2LCk1f3KWgVkVrM0tv4nwhWU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "M5QY2_8704o"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-22T17:16:51Z",
+          "channelId": "UCwVQIkAtyZzQSA-OY1rsGig",
+          "title": "Chillstep Music for Programming / Cyber / Coding",
+          "description": "Could music boost your coding performance? Monotonous keyboard clicks can make you lose your train of thought. Our minds ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chill Music Lab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-22T17:16:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ivIlmwv32eUolYLwiiXvpKqyKIo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9A35CTN4dq8"
+        },
+        "snippet": {
+          "publishedAt": "2021-07-11T04:57:16Z",
+          "channelId": "UCeVMnSShP_Iviwkknt83cww",
+          "title": "3 Habits to Build for Improving Your Logic &amp; Programming Skills (START THESE) 🔥🔥",
+          "description": "Tips to build and improve logic building in programming: In this video, we will see how to approach a problem from scratch.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9A35CTN4dq8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9A35CTN4dq8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9A35CTN4dq8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CodeWithHarry",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-07-11T04:57:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bwWgwF_UrRIym7AtEt3vdrlgVhA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "otDOHt_Jges"
+        },
+        "snippet": {
+          "publishedAt": "2020-12-18T11:00:31Z",
+          "channelId": "UCWr0mx597DnSGLFk1WfvSkQ",
+          "title": "Why Linux Is Better For Programming",
+          "description": "Why Linux Is Better For Programming Check out Kite: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/otDOHt_Jges/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/otDOHt_Jges/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/otDOHt_Jges/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kalle Hallden",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-12-18T11:00:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vEJfOtC40eoi0RvRgOE6ySMa_a0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ReVeUvwTGdU"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-24T17:00:13Z",
+          "channelId": "UCDrekHmOnkptxq3gUU0IyfA",
+          "title": "3 years of Computer Science in 8 minutes",
+          "description": "This is the most asked question on my channel by far so I thought I'd explain how I learned programming. In the process I got a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ReVeUvwTGdU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ReVeUvwTGdU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ReVeUvwTGdU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Devon Crawford",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-24T17:00:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JAoLkUmHOB8jrAz_TVDYbDP_6VU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FrFY6Y1MJBQ"
+        },
+        "snippet": {
+          "publishedAt": "2021-04-25T21:06:10Z",
+          "channelId": "UCkCJ0zLrSg7VudR97g-FNVQ",
+          "title": "Self Taught Programmers... Listen Up.",
+          "description": "Special deal! Every purchase of a 2-year plan will get you 1 additional month free. Go to https://www.nordvpn.com/gunderman or ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FrFY6Y1MJBQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FrFY6Y1MJBQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FrFY6Y1MJBQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kenny Gunderman",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-04-25T21:06:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3Eg7KWhviBlw4XHn-eO6MGgKKPc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KJgsSFOSQv0"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-15T17:52:20Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "C Programming Tutorial for Beginners",
+          "description": "This course will give you a full introduction into all of the core concepts in the C programming language. Want more from Mike?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KJgsSFOSQv0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KJgsSFOSQv0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KJgsSFOSQv0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-15T17:52:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rRWUKGkA0ryrhlUP0tjeyffvnas",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DBXZWB_dNsw"
+        },
+        "snippet": {
+          "publishedAt": "2013-01-03T17:10:52Z",
+          "channelId": "UCYNlsJPY-IrNhZqCOeApbEw",
+          "title": "14-Year-Old Prodigy Programmer Dreams In Code",
+          "description": "Fourteen-year-old programmer and software developer Santiago Gonzalez might just be the next Steve Jobs. He already has 15 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DBXZWB_dNsw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DBXZWB_dNsw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DBXZWB_dNsw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "THNKR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-01-03T17:10:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8cfvbx5jGODYESpOxPvyM6ePI2k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_bQ5_RvKoVU"
+        },
+        "snippet": {
+          "publishedAt": "2020-12-10T17:05:17Z",
+          "channelId": "UCM-yUTYGmrNvKOCcAl21g3w",
+          "title": "BEST Way To Learn Programming Language (quickly and easily!) | Placement Series",
+          "description": "In this video, I have discussed the best way to learn a programming language CodeChef Programming Scholarship Test: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_bQ5_RvKoVU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_bQ5_RvKoVU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_bQ5_RvKoVU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jenny's lectures CS/IT NET&JRF",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-12-10T17:05:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JwJb1MGSvo4UsJGIBqr-RY9V3xk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pTB0EiLXUC8"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-30T00:24:17Z",
+          "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+          "title": "Object-oriented Programming in 7 minutes | Mosh",
+          "description": "Get the COMPLETE COURSE: http://bit.ly/2keDCna 4 pillars of object-oriented programming: encapsulation, abstraction, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pTB0EiLXUC8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pTB0EiLXUC8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pTB0EiLXUC8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Programming with Mosh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-30T00:24:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "e5zJRrPAGo-qo55mnDP5bDNFNtM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "X34ZmkeZDos"
+        },
+        "snippet": {
+          "publishedAt": "2021-02-10T03:13:29Z",
+          "channelId": "UCV0qA-eDDICsRR9rPcnG7tw",
+          "title": "Why Microsoft Word is the best IDE for programming",
+          "description": "In this video, I tell you the best IDE to use for programming. No matter what kind of programming you do. Music by Joy Ngiaw: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X34ZmkeZDos/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X34ZmkeZDos/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X34ZmkeZDos/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Joma Tech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-02-10T03:13:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kDxhvKrt-V4YxnefvJDF_k7Wa0g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "l9nh1l8ZIJQ"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-08T18:28:15Z",
+          "channelId": "UCT5RMcRGa32Th0AZ0Dxxviw",
+          "title": "Programming / Coding / Hacking music vol.16 (CONNECTION LOST)",
+          "description": "UKRINE IS UNDER ATTCK! HELLO WORLD! My country is under attack. Attack for non sense by Russion federation. Every day I ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l9nh1l8ZIJQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l9nh1l8ZIJQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l9nh1l8ZIJQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "JimTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-08T18:28:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Sq_M4K-lcoiR2pNbxNcunhSqLhk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DDOeEtAOc4o"
+        },
+        "snippet": {
+          "publishedAt": "2018-04-24T12:00:01Z",
+          "channelId": "UCETxOvOv9_44-CUzsPlzyxQ",
+          "title": "How to learn Code in Sinhala",
+          "description": "Phone එකෙන් වුණත් Coding ඉගෙන ගන්න මෙන්න ක්\u200dරමය - How to lean Code and computer programming in Sinhala by ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DDOeEtAOc4o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DDOeEtAOc4o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DDOeEtAOc4o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chanux Bro",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-04-24T12:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wOKrB0Vu6SoBsXR8pGSsPcFyGjY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GoXwIVyNvX0"
+        },
+        "snippet": {
+          "publishedAt": "2019-05-21T16:24:34Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Intro to Java Programming - Course for Absolute Beginners",
+          "description": "Java is a general-purpose programming language. Learn how to program in Java in this full tutorial course. This is a complete ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GoXwIVyNvX0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GoXwIVyNvX0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GoXwIVyNvX0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-21T16:24:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HRuUfdoOmTROZu4MOhb1hLa0YRY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r4TgqWbKRtA"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T13:51:05Z",
+          "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+          "title": "Problem Solving Techniques - For Programming Problems &amp; Interviews",
+          "description": "Want to improve your problem solving skills and ace coding interviews? This videos shares coding interview tips and coding ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r4TgqWbKRtA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r4TgqWbKRtA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r4TgqWbKRtA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tech With Tim",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T13:51:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AvO0DILkH7z8xu3woCWSIXiyUE8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T7aSI-E1fCE"
+        },
+        "snippet": {
+          "publishedAt": "2021-02-05T14:40:31Z",
+          "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+          "title": "Why Most People FAIL to Learn Programming",
+          "description": "Avoid these traps / mistakes at all costs if you are learning to code! Maybe if you gave up this will inspire you to start again too.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T7aSI-E1fCE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T7aSI-E1fCE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T7aSI-E1fCE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aaron Jack",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-02-05T14:40:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "u8ACFvwGAwKs_s5DEaE93W5WJ0Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "McojvctVsUs"
+        },
+        "snippet": {
+          "publishedAt": "2021-06-05T13:30:02Z",
+          "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+          "title": "C++ Basics For Beginners | Learn C++ Programming | C++ Tutorial For Beginners | Simplilearn",
+          "description": "In this video on C++ Basics for beginners, you will learn about some basic topics that will help you understand C++ in a better way ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/McojvctVsUs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/McojvctVsUs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/McojvctVsUs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Simplilearn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-05T13:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pjK69QkiChtnhX0hXgdOH_nUt8I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ifo76VyrBYo"
+        },
+        "snippet": {
+          "publishedAt": "2017-12-08T13:37:17Z",
+          "channelId": "UCvxAt_WebjZ_-pMsxpraROg",
+          "title": "Introduction to Computer Programming | What is it? Programming Language Types",
+          "description": "in this tutorial you will learn the concept of computer programming and the types of programming languages available including ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ifo76VyrBYo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ifo76VyrBYo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ifo76VyrBYo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "LearningLad",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-12-08T13:37:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pNuyFSSkSS5fE3thC-teVGp9dXU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IY79fWYkiPQ"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-07T15:00:01Z",
+          "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+          "title": "C Programming (Important Questions Set 1)",
+          "description": "C Programming Lectures: https://goo.gl/7Eh2SS C Programming & Data Structures: Important questions in C programming. Topics ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IY79fWYkiPQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IY79fWYkiPQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IY79fWYkiPQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Neso Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-07T15:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Lja4IYEzD3PtWtfBX8wuiY-aQ3I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bVKHRtafgPc"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-05T15:58:11Z",
+          "channelId": "UCKuDLsO0Wwef53qdHPjbU2Q",
+          "title": "Starting Competitive Programming - Steps and Mistakes",
+          "description": "In this video, I describe the steps to start competitive programming for a person from any level and I point out several common ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bVKHRtafgPc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bVKHRtafgPc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bVKHRtafgPc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "William Lin",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-05T15:58:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dD-qKPaqIB21r4WEpgr7G7f4s4A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VZTsdI-hbpw"
+        },
+        "snippet": {
+          "publishedAt": "2021-02-01T22:53:42Z",
+          "channelId": "UCEDkO7wshcDZ7UZo17rPkzQ",
+          "title": "Best Keyboards for Programming 2021",
+          "description": "PREORDER my code; hoodie today! https://store.dftba.com/collections/hello-mayuko/products/code-hoodie LOGITECH (Gifted) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VZTsdI-hbpw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VZTsdI-hbpw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VZTsdI-hbpw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "mayuko",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-02-01T22:53:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "os4xl5bDqHWGWmpFi6o7hzHpCAE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3sZbFPDzUZU"
+        },
+        "snippet": {
+          "publishedAt": "2020-08-20T15:01:58Z",
+          "channelId": "UC4xKdmAXFh4ACyhpiQ_3qBw",
+          "title": "Top 7 signs you&#39;re a Programmer.",
+          "description": "Ex-Google TechLead on how to know if you're a programmer or not. The fact is, programming ability alone does not make one a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3sZbFPDzUZU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3sZbFPDzUZU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3sZbFPDzUZU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TechLead",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-08-20T15:01:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fRH_uGuBqw_VjZV30y-mAYs83sg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r5kfkpYtOiw"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-30T22:39:17Z",
+          "channelId": "UC5CMtpogD_P3mOoeiDHD5eQ",
+          "title": "Which programming language should you choose?",
+          "description": "\"What programming language should I learn?\" It's the number one question we get at Codecademy, and there's no easy answer.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r5kfkpYtOiw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r5kfkpYtOiw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r5kfkpYtOiw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Codecademy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-30T22:39:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9dJsHc2AQiJYLIlu5ejpXmNaHkA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ecIWPzGEbFc"
+        },
+        "snippet": {
+          "publishedAt": "2016-05-18T11:00:02Z",
+          "channelId": "UCr5AKH-Ooht17f2xxRaX3ag",
+          "title": "&quot;Uncle&quot; Bob Martin - &quot;The Future of Programming&quot;",
+          "description": "How did our industry start, what paths did it take to get to where we are, and where is it going. What big problems did ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ecIWPzGEbFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ecIWPzGEbFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ecIWPzGEbFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Paul Stringer's Mobile Tech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-05-18T11:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TNCRa3CeiM8p_IIcfFuJ6Q7rzMo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "P2yr-3F6PQo"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-01T01:00:07Z",
+          "channelId": "UCfaJt1SFvmSfjL2iKX-ZuBA",
+          "title": "The Last Programming Language",
+          "description": "This is the keynote Uncle Bob gave remotely at ACCU 2011. To see more about Clean Coders: https://cleancoders.com/ Over the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P2yr-3F6PQo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P2yr-3F6PQo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P2yr-3F6PQo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Clean Coders",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-01T01:00:07Z"
+        }
+      }
+    ]
+  }
